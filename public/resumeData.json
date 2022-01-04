@@ -1,0 +1,158 @@
+{
+  "main": {
+    "name":"M Waqas Ahmad",
+    "description":"I design and code beautifully simple things, and i love what i do. I build neat, cool and scalable mobile apps with Flutter. I love to learn and build new stuff that are beneficial to the community and cool to work on. I also have great interest in the open soucre community",
+    "image":"profilepic.jpg",
+    "bio":"I love to create performant and interesting stuff that are beneficial to the community. Utlize advance function and library for Mobile Application development. I enjoy learning and exploring new areas in technologies.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "m.wakas.ahmad@gmail.com",
+    "phone": "+923057878033",
+    "github":" ",
+    "project":"",
+    "address":{
+      "street":"",
+      "city":"Bahawalpur",
+      "state":"",
+      "zip": "Pakistan"
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/m.wakas.ahmad?_rdc=1&_rdr",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/m_wakas_ahmad?s=09",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/m-waqas-ahmad-780153137/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/m_wakas_ahmad/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/MWakasAhmad/",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"NCBA&E Bahawalpur",
+        "degree":"Bachelor of Science in Computer Science",
+        "graduated":"April 2020",
+        "description":""
+      }
+      
+    ],
+    "work":[
+      {
+        "company":"Knarkz Solutions Limited",
+        "title":"Flutter Developer",
+        "years":"March 2021 - Present",
+        "description":"Projects: Comply m-forms | Comply IX | Note it Nip it | ADIT driving School"
+      },
+      {
+        "company":"CAS Bahawalpur",
+        "title":"Flutter Developer",
+        "years":"Junuary 2019 - March 2020",
+        "description":"Projects: EasyBudget | Animal App"
+      },
+      {
+        "company":"CAS Bahawalpur",
+        "title":"Android Developer",
+        "years":"Junuary 2018 - January 2019",
+        "description":"Smart Card"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Flutter",
+        "level":"90%"
+      },
+      {
+        "name":"Android",
+        "level":"50%"
+      },
+      {
+        "name":"NodeJs",
+        "level":"70%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"60%"
+      },
+      {
+        "name":"Dart",
+        "level":"70%"
+      },
+      {
+        "name":"JAVA",
+        "level":"70%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Knarkz Chat App",
+        "category":"Knarkz Chat App",
+        "image":"01.jpg",
+        "url":""
+      },
+      {
+        "title":"Comply IX",
+        "category":"Comply IX",
+        "image":"02.jpg",
+        "url":""
+      },
+      {
+        "title":"Comply m-forms",
+        "category":"Comply m-forms",
+        "image":"03.jpg",
+        "url":""
+      },
+      {
+        "title":"Knarkz Finance App",
+        "category":"Knarkz Finance App",
+        "image":"04.jpg",
+        "url":""
+      },
+      {
+        "title":"Not is Nip it",
+        "category":"Not is Nip it",
+        "image":"05.jpg",
+        "url":""
+      },
+      {
+        "title":"UI Kit",
+        "category":"UI Kit",
+        "image":"06.jpg",
+        "url":""
+      },
+      {
+        "title":"Easy Budget",
+        "category":"Easy Budget",
+        "image":"07.jpg",
+        "url":""
+      },
+      {
+        "title":"UI Kit",
+        "category":"UI Kit",
+        "image":"08.jpg",
+        "url":""
+      }
+    ]
+  }
+}
